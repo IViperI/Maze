@@ -1,4 +1,6 @@
 # Maze
+The short arcade game prototype.
+
 The game with one level.
 
 <h2>Actions</h2>
